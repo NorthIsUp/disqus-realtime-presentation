@@ -14,7 +14,7 @@ i'm adam, or
 # Why this isn't working
 
 * could only scale this to registered users
-* ![all the realtimes](../images/all the users.jpeg)
+* ![all the realtimes](../../images/all the users.jpeg)
 
 !SLIDE bullets incremental
 # Realertime! #
@@ -28,7 +28,7 @@ i'm adam, or
   * thoonk
 
 !SLIDE center
-![high level overview](../images/realtime.png)
+![high level overview](../../images/realtime.png)
 
 
 !SLIDE bullets
